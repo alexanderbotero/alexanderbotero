@@ -1,6 +1,6 @@
 # Hi Everybody :wave:
 
-I'm Alex Botero a Fullstack developer from :colombia: *Colombia* but at this moment living in :netherlands: *Netherlands*
+I'm Alex Botero a Fullstack developer from :colombia: *Colombia*
 
 Some of the things that I know (but not limited to :wink:)
 
